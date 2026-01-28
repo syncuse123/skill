@@ -1,0 +1,37 @@
+技术架构图
+Analyze the uploaded system architecture diagram image.
+
+
+
+1. Identify and extract all components, layers, boundaries, and relationships.
+
+2. Preserve the original system semantics and component naming.
+
+
+
+Then recreate the diagram as a clean, professional SVG with:
+
+- clear layered layout (top-down or left-to-right)
+
+- grouped components by function
+
+- consistent spacing and alignment
+
+- labeled components and arrows
+
+- enterprise technical diagram style
+
+
+Output requirements:
+
+- SVG format only
+
+- fully vector-based, no raster images
+
+- editable text (not converted to paths)
+
+- simple geometric shapes and arrows
+
+- white background
+
+- suitable for technical documentation and PPT
